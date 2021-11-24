@@ -52,6 +52,8 @@ plt.show()
 ```
 
 ![alt text](/img/posts/Opens_Regression.png "Opens Linear Regression")
+---
+After performing more analysis, I did research and found that Mailchip suggests that 10 AM is the most optimal time to send out newsletters/emails to subscribers. I used that as  my recommendation to The Column
 
 ![alt text](/img/posts/Clicks_Analysis.jpg "Opens Analysis")
 
