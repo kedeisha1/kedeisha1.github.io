@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Finding Prime Numbers with Python
+title: The Column Subscriber Analysis
 image: "/posts/primes_image.jpeg"
 tags: [Python, Primes]
 ---
