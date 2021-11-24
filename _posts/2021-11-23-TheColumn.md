@@ -53,5 +53,5 @@ plt.show()
 
 ![alt text](/img/posts/Opens_Regression.png "Opens Linear Regression")
 
-
+![alt text](/img/posts/Clicks_Analysis.jpg "Opens Analysis")
 
