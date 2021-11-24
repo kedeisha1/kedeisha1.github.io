@@ -17,12 +17,12 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # About Section
 subtitle: Data Science <span style="color:#f58506"> Portfolio </span>
 location: "Marietta, GA"
-resume_url: /docs/Kedeisha Bryan Resume.docx
+resume_url: /img/Kedeisha Bryan Resume.docx
 avatar_image: /img/Kedeisha Bryan Headshot Upload.jpg
 
 #-------------------------------
 # Contact links
-linkedln: "https://www.linkedin.com/in/kedeishabryan/#" # Add your linkedln handle
+linkedln: "https://www.linkedin.com/in/kedeishabryan/" # Add your linkedln handle
 github: "https://github.com/kedeisha1#"  # Add your github handle
 
 paginate: 6
