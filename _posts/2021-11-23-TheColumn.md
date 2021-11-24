@@ -1,11 +1,11 @@
 ---
 layout: post
 title: The Column Subscriber Analysis
-image: "/posts/primes_image.jpeg"
-tags: [Python, Primes]
+image: "/posts/Clicks Analysis.png"
+tags: [Python]
 ---
 
-I had the pleasure in completing a hackathon where I was tasked with analyzing subscriber data for The Column and providing recommendations to imporove their advertising processes. Their main objectives were to increase clicks, opens, and minimize unsubscribers for their newsletter.
+I had the pleasure in being tasked with analyzing subscriber data for The Column and providing recommendations to imporove their advertising processes. Their main objectives were to increase clicks, opens, and minimize unsubscribers for their newsletter.
 
 ---
 
