@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Column Subscriber Analysis
-image: "/posts/Clicks Analysis.png"
+image: "/posts/Clicks Analysis.jpg"
 tags: [Python]
 ---
 
@@ -9,7 +9,7 @@ I had the pleasure in being tasked with analyzing subscriber data for The Column
 
 ---
 
-First I imported the required libraries and file
+First I imported the required libraries
 
 ```ruby
 import pandas as pd
@@ -23,5 +23,4 @@ from sklearn.preprocessing import MinMaxScaler
 import scipy 
 import statsmodels.api as sme
 from statsmodels.tsa.ar_model import AR,AutoRegResults
-summary = pd.read_excel(r'C:\Users\kedei\OneDrive\Documents\Hackathon 1\summary data.xlsx')
 ```
