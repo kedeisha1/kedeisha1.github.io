@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Column Subscriber Analysis
-image: "/posts/Clicks_Analysis.jpg"
+image: "/posts/thecolumn_share.png"
 tags: [Python]
 ---
 
