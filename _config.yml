@@ -9,13 +9,13 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Kedeisha Bryan
-description: "Hi I'm Kedeisha, and I'm a Data Professional.  My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
+description: "Hi I'm Kedeisha, and I'm a Data Professional based in Marietta, GA. I am passionate about providing value through data analytics, data visualization, and data science. Please connect with me on LinkedIn for analytics business inquiries"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # About Section
-subtitle: Data Science <span style="color:#f58506"> Portfolio </span>
+subtitle: Data Analytics | Visualization | Data Science <span style="color:#f58506"> Portfolio </span>
 location: "Marietta, GA"
 resume_url: /doc/Kedeisha Bryan Resume.docx
 avatar_image: /img/Kedeisha Bryan Headshot Upload.jpg
