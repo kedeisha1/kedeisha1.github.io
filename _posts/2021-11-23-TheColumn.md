@@ -24,3 +24,13 @@ import scipy
 import statsmodels.api as sme
 from statsmodels.tsa.ar_model import AR,AutoRegResults
 ```
+I then read in my file
+```ruby
+summary = pd.read_excel(r'C:\Users\kedei\OneDrive\Documents\Hackathon 1\summary data.xlsx')
+```
+Starting maximizing the open rate of the newsletter, I visuaze a strip plot of the most common hours the newsletter is actually opened by subscribers
+
+```ruby
+ax = sns.stripplot(x='Hour', y='Opens', data=summary)
+```
+![alt text](/img/posts/thecolumn_share.png "Strip Plot")
