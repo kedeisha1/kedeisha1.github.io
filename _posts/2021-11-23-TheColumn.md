@@ -33,4 +33,4 @@ Starting maximizing the open rate of the newsletter, I visuaze a strip plot of t
 ```ruby
 ax = sns.stripplot(x='Hour', y='Opens', data=summary)
 ```
-![alt text](/img/posts/thecolumn_share.png "Strip Plot")
+![alt text](/img/posts/Strip_plot.png "Strip Plot")
