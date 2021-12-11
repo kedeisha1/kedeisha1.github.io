@@ -9,7 +9,7 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Kedeisha Bryan
-description: "Hi I'm Kedeisha, and I'm a Data Professional based in Marietta, GA. I am passionate about providing value through data analytics, data visualization, and data science. Please connect with me on LinkedIn for analytics business inquiries"
+description: "Hi I'm Kedeisha, and I'm a Data Analyst based in Marietta, GA. I am passionate about providing value through data analytics, data visualization, and data science. Please connect with me on LinkedIn for analytics business inquiries"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
