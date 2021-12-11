@@ -23,10 +23,7 @@ from sklearn.preprocessing import MinMaxScaler
 import scipy 
 import statsmodels.api as sme
 from statsmodels.tsa.ar_model import AR,AutoRegResults
-```
-I then read in my file
-```ruby
-summary = pd.read_excel(r'C:\Users\kedei\OneDrive\Documents\Hackathon 1\summary data.xlsx')
+
 ```
 First I wanted to investigate the popular times of day that subscribers open the newsletter, I visualized a strip plot of the most common hours the newsletter is actually opened by subscribers
 
