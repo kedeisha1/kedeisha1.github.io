@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Inventory & Sales Dashboard
-image: "/posts/Challenge_Two.PNG"
+image: "/posts/Sales_Inventory.jpeg"
 tags: [Tableau, Dashboard]
 ---
 
