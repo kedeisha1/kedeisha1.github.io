@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NYPD Arrests Dashboard
-image: "/img/posts/Onyx_November_Challenge.jpg"
+image: "/posts/Onyx_November_Challenge.jpg"
 tags: [Tableau, Dashboard]
 ---
 
