@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Project Euler Webscraping 
-image: "/posts/"
+image: "/posts/project_euler.png"
 tags: [Scripting, Python]
 ---
+I created a script that shows the most recent coding challenge from projecteuler.net
 
 ```ruby
 import urllib.request
