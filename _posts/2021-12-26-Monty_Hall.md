@@ -14,8 +14,6 @@ I used Python to create a simulation of the Monty Hall challenge which the show 
 ```ruby
 import random
 
-
-
 def monty_hall(trials): 
     stay_wins = 0
     stay_loss = 0
