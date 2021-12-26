@@ -22,8 +22,6 @@ soup = BeautifulSoup(response.text, "html.parser")
 
 problem_page = response.text
 
-         
-
 euler_problem = open('eulerproblem.html', 'w')
 euler_problem.write(problem_page)
 euler_problem.close()
