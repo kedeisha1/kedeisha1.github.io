@@ -4,7 +4,7 @@ title: Project Euler Webscraping
 image: "/posts/project_euler.png"
 tags: [Scripting, Python]
 ---
-I created a script that shows the most recent coding challenge from projecteuler.net
+I created a script that shows the most recent coding challenge from projecteuler.net (Not including images)
 
 ```ruby
 import urllib.request
