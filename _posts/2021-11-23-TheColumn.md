@@ -56,3 +56,5 @@ After performing more analysis, I did research and found that Mailchip suggests 
 
 ![alt text](/img/posts/Clicks_Analysis.jpg "Clicks Analysis")
 
+![alt text](/img/posts/Lifetime_Column.jpg "Lifetime Performance")
+
