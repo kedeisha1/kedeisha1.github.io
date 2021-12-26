@@ -15,12 +15,12 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # About Section
-subtitle: Data Analytics | Data Visualization | Six Sigma<span style="color:#ADD8E6"> Portfolio </span>
+subtitle: Data Analytics | Data Visualization | Six Sigma <span style="color:#ADD8E6"> Portfolio </span>
 location: "Marietta, GA"
 resume_url: /docs/Kedeisha_Bryan_Resume.docx
 avatar_image: /img/Kedeisha Bryan Headshot Upload.jpg
 
-#-------------------------------
+#------------------------------- 
 # Contact links
 linkedln: "https://www.linkedin.com/in/kedeishabryan/" # Add your linkedln handle
 github: "https://github.com/kedeisha1#"  # Add your github handle
