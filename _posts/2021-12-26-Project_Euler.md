@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Project Euler Webscraping 
-image: "/posts/project_euler.png"
+image: "/posts/Leonhard_Euler.jpg"
 tags: [Scripting, Python]
 ---
 I created a script that shows the most recent coding challenge from projecteuler.net (Not including images)
