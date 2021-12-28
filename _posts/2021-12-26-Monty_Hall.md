@@ -26,18 +26,14 @@ def monty_hall(trials):
         stay_or_switch = random.choice(stay_or_switch)
         if stay_or_switch == 'stay':
             if door_choice == 'car':
-                #print('Stay is successful. You won a car')
                 stay_wins += 1
             else:
                 stay_loss += 1
-                #print('Stay is unsuccessful. You lost')
         elif stay_or_switch == 'switch':
             if door_choice == 'car':
-                #print('Switch is successful. You won a car')
                 switch_loss += 1
             if door_choice == 'goat':
                 switch_wins += 1
-                #print('Switch is unsuccessfull. You lost')
 
     total_stay_win_perc = int((stay_wins/(stay_wins+stay_loss) * 100))
     total_switch_win_perc = int((switch_wins/(switch_wins+switch_loss) * 100))
