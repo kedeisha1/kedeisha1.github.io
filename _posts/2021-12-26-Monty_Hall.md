@@ -4,7 +4,7 @@ title: Monty Hall Simulation
 image: "/posts/monty_hall.jpg"
 tags: [Scripting, Python]
 ---
-I created a function in Python that simulates the Monty Hall challenge which the show 'Let's Make a Deal' is based on. There are three doors: one door has a car behind it, while the other two have goats. The player picks one door, then aftwerwards another door is revealed (which is always a door with a goat). The player has the options of keeping their initial door choice or switiching to the last unopened door to win the car. Switching creates about a 66% or 2/3 of a chance for success, as opposed to staying, as it only has a 33% or 1/3 chance of success.
+I created a function in Python that simulates the Monty Hall challenge which the show 'Let's Make a Deal' is based on. There are three doors: one door has a car behind it, while the other two have goats. The player picks one door, then afterwards another door is revealed (which is always a door with a goat). The player has the options of keeping their initial door choice or switiching to the last unopened door to win the car. Switching creates about a 66% or 2/3 of a chance for success, as opposed to staying, as it only has a 33% or 1/3 chance of success.
 
 ---
 
