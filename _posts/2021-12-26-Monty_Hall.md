@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Monty Hall Simulation 
+title: Monty Hall Simulation In Python
 image: "/posts/monty_hall.jpg"
 tags: [Scripting, Python]
 ---
