@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Advertising Analytics Dashboard
-image: "/posts/click_an.jpg"
+image: "/posts/Ad_click.jpeg"
 tags: [Tableau, Dashboard]
 ---
 
