@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Which Schools Create the Most Student Loans?
+title: United States Student Loan Dashboard
 image: "/posts/Loan_cover.png"
 tags: [Tableau, Dashboard]
 ---
