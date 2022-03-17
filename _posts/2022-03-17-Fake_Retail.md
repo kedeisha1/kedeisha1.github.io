@@ -1,0 +1,13 @@
+---
+layout: post
+title: Boutique Sales
+image: "/posts/retail_pic.jpg"
+tags: [Tableau, Dashboard]
+---
+
+
+![alt text](/img/posts/Fake_1.png "Boutiqe Sales")
+
+Full Dashboard Here
+
+https://public.tableau.com/app/profile/kedeisha/viz/RetailDashboard_16429073482150/Dashboard2
