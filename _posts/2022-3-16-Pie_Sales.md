@@ -8,7 +8,7 @@ tags: [Tableau, Dashboard]
 
 ![alt text](/img/posts/Day_13.png "Pie_Sales")
 
-Full Dashboard Here
+Full Dashboard Here:
 
 https://public.tableau.com/app/profile/kedeisha/viz/Pie_16466150766070/FinishedDashboard
 
