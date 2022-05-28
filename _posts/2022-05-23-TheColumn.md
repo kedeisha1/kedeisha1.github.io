@@ -5,7 +5,7 @@ image: "/posts/thecolumn_share.png"
 tags: [Python, Power BI]
 ---
 
-I had the pleasure in being tasked with analyzing subscriber data for The Column and providing recommendations to imporove their advertising processes. Their main objectives were to increase clicks, opens, and minimize unsubscribers for their newsletter.
+I had the pleasure in being tasked with analyzing subscriber data for The Column and providing recommendations to improve their advertising processes. Their main objectives were to increase clicks, opens, and minimize unsubscribers for their newsletter.
 
 ---
 
