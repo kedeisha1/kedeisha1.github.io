@@ -12,6 +12,5 @@ I analyzed arrest data from the New York City Police Department for the year 202
 
 ![alt text](/img/posts/Onyx_November_Challenge.jpg "November Challenge!")
 
-Full Dashboard Here
+Full Dashboard [Here](https://public.tableau.com/app/profile/kedeisha/viz/OnyxNovemberChallenge/Dashboard1)
 
-[Arrests Dashboard](https://public.tableau.com/app/profile/kedeisha/viz/OnyxNovemberChallenge/Dashboard1)
