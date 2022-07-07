@@ -13,6 +13,6 @@ This is a mock dashboard channel clicks analytics for a YouTube Channel. Insight
 
 ![alt text](/img/posts/Ad_Analytics.png "Clicks Analytics!")
 
-Full Dashboard Here:
+Full Dashboard [Here](https://public.tableau.com/app/profile/kedeisha/viz/ChannelClicksAnalytics/ChannelClicksAnalytics)
 
-https://public.tableau.com/app/profile/kedeisha/viz/ChannelClicksAnalytics/ChannelClicksAnalytics
+
