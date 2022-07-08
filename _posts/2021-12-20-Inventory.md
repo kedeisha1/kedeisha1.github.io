@@ -12,5 +12,5 @@ This is a mock dashboard showcasing inventory and national sales insights includ
 
 ![alt text](/img/posts/Challenge_Two.PNG "Inventory and Sales!")
 
-Full Dashboard [Here](https://public.tableau.com/app/profile/kedeisha/viz/SilvertoneChallenge2/Dashboard1?publish=yes)
+Full Dashboard Here: https://public.tableau.com/app/profile/kedeisha/viz/SilvertoneChallenge2/Dashboard1?publish=yes
 
