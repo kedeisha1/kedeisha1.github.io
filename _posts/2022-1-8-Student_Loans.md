@@ -7,6 +7,7 @@ tags: [Tableau, Dashboard]
 
 ![alt text](/img/posts/Student_Loans.png "Student Loans In the US!")
 
-Full Dashboard: https://public.tableau.com/app/profile/kedeisha/viz/2021W24WhichSchoolsCreatetheMostStudentLoans_16410987860380/Dashboard1
+
+This is just a glimpse.Check out my full dashboard [here](https://public.tableau.com/app/profile/kedeisha/viz/2021W24WhichSchoolsCreatetheMostStudentLoans_16410987860380/Dashboard1)
 
 
