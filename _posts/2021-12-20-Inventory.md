@@ -10,4 +10,4 @@ tags: [Tableau, Dashboard]
 
 This is a mock dashboard showcasing inventory and national sales insights.
 
-This is just a glimpse. Check My full dashboard [here](https://public.tableau.com/app/profile/kedeisha/viz/SilvertoneChallenge2/Dashboard1?publish=yes)
+This is just a glimpse. Check out my full dashboard [here](https://public.tableau.com/app/profile/kedeisha/viz/SilvertoneChallenge2/Dashboard1?publish=yes)
