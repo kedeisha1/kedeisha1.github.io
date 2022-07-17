@@ -11,6 +11,6 @@ tags: [Tableau, Dashboard]
 
 This is a mock dashboard channel clicks analytics for an actual YouTube Channel
 
-This is just a glimpse. Check out my full dashboard [here](https://public.tableau.com/app/profile/kedeisha/viz/ChannelClicksAnalytics/ChannelClicksAnalytics) 
+This is just a glimpse. Check out my full dashboard here:https://public.tableau.com/app/profile/kedeisha/viz/ChannelClicksAnalytics/ChannelClicksAnalytics 
 
 
