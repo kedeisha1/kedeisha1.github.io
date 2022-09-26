@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Assessing Campaign Performance Using Hypothesis Testing
-image: "/posts/mobile_ab_test.png"
+image: "/posts/Marketing_plan.png"
 tags: [AB Testing, Hypothesis Testing, Chi-Square, Python]
 ---
 
